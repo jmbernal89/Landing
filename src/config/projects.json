@@ -1,0 +1,24 @@
+{
+  "projects": [
+    {
+      "title": "Farm Land 1",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, blanditiis nisi. Vitae inventore nemo magnam commodi maiores id mollitia fugiat excepturi? Porro commodi inventore nam facilis repudiandae ad optio odio cupiditate cum earum nesciunt nisi voluptatibus perspiciatis odit fuga consectetur architecto, fugiat animi ratione eum! Laboriosam, natus. Laborum, quos ullam.",
+      "image": "images/fingerprint.svg"
+    },
+    {
+      "title": "Farm Land 2",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, blanditiis nisi. Vitae inventore nemo magnam commodi maiores id mollitia fugiat excepturi? Porro commodi inventore nam facilis repudiandae ad optio odio cupiditate cum earum nesciunt nisi voluptatibus perspiciatis odit fuga consectetur architecto, fugiat animi ratione eum! Laboriosam, natus. Laborum, quos ullam.",
+      "image": "images/fingerprint.svg"
+    },
+    {
+      "title": "Farm Land 3",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, blanditiis nisi. Vitae inventore nemo magnam commodi maiores id mollitia fugiat excepturi? Porro commodi inventore nam facilis repudiandae ad optio odio cupiditate cum earum nesciunt nisi voluptatibus perspiciatis odit fuga consectetur architecto, fugiat animi ratione eum! Laboriosam, natus. Laborum, quos ullam.",
+      "image": "images/fingerprint.svg"
+    },
+    {
+      "title": "Farm Land 4",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, blanditiis nisi. Vitae inventore nemo magnam commodi maiores id mollitia fugiat excepturi? Porro commodi inventore nam facilis repudiandae ad optio odio cupiditate cum earum nesciunt nisi voluptatibus perspiciatis odit fuga consectetur architecto, fugiat animi ratione eum! Laboriosam, natus. Laborum, quos ullam.",
+      "image": "images/fingerprint.svg"
+    }
+  ]
+}
